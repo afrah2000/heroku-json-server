@@ -1,0 +1,218 @@
+{
+    "posts": [
+      {
+        "id": 4,
+        "pname": "Venilla",
+        "pdescription": "Venilla canke with cherry",
+        "price": 350,
+        "img": "https://images.pexels.com/photos/2144112/pexels-photo-2144112.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 5,
+        "pname": "Choco",
+        "pdescription": "Chocolate fudge",
+        "price": 150,
+        "img": "https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 6,
+        "pname": "Strawberry",
+        "pdescription": "Strawberry with cherry",
+        "price": 350,
+        "img": "https://images.pexels.com/photos/2161643/pexels-photo-2161643.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 7,
+        "pname": "Fruity",
+        "pdescription": "Fruity with berry",
+        "price": 100,
+        "img": "https://images.pexels.com/photos/2273823/pexels-photo-2273823.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 8,
+        "pname": "Apple",
+        "pdescription": "Coco apple",
+        "price": 190,
+        "img": "https://images.pexels.com/photos/913136/pexels-photo-913136.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 9,
+        "pname": "Butterscotch",
+        "pdescription": "Buttercotch and berry",
+        "price": 110,
+        "img": "https://media.istockphoto.com/photos/cake-with-coffee-picture-id1299116296?b=1&k=20&m=1299116296&s=612x612&w=0&h=9fRA9YSN7KWeUA5keys5OqpKwfxSe4JwmXqLECsIkjA="
+      },
+      {
+        "id": 10,
+        "pname": "Chocolate",
+        "pdescription": "Chocolate and berries",
+        "price": 290,
+        "img": "https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ],
+    "admin": [
+      {
+        "username": "admin",
+        "useremail": "admin@gmail.com",
+        "password": "admin@123",
+        "mobile": "",
+        "id": 1
+      }],
+    "users": [
+      {
+        "username": "john@gmail.com",
+        "useremail": "pallavikatari@gmail.com",
+        "password": "John@123",
+        "mobile": "",
+        "id": 1
+      },
+      {
+        "username": "Admin",
+        "useremail": "admin1@gmail.com",
+        "password": "admin1@123",
+        "mobile": "9898989898",
+        "id": 3
+      },
+      {
+        "username": "Jancy",
+        "useremail": "jancy@gmail.com",
+        "password": "jancy123",
+        "mobile": "",
+        "id": 4
+      },
+      {
+        "username": "asdfgg",
+        "useremail": "12345",
+        "password": "",
+        "mobile": "",
+        "id": 5
+      },
+      {
+        "username": "jancy",
+        "useremail": "jancy1@gmail.com",
+        "password": "",
+        "mobile": "",
+        "id": 6
+      },
+      {
+        "username": "jancy",
+        "useremail": "jancy2@gmail.com",
+        "password": "",
+        "mobile": "",
+        "id": 7
+      },
+      {
+        "username": "jancy",
+        "useremail": "jancy@gmail.com",
+        "password": "",
+        "mobile": "",
+        "id": 8
+      },
+      {
+        "username": " afrah",
+        "useremail": "afrahthabassum1@gmail.com",
+        "password": "",
+        "mobile": "1234567890",
+        "id": 9
+      },
+      {
+        "username": "afrahth",
+        "useremail": "afrahthabassum123@gmail.com1",
+        "password": "",
+        "mobile": "",
+        "id": 10
+      },
+      {
+        "username": "janrrwe",
+        "useremail": "jancy23@gmail.com",
+        "password": "jancy23",
+        "mobile": "123456789012",
+        "id": 11
+      },
+      {
+        "username": "asdfghjkl",
+        "useremail": "asdfg@gmail.com",
+        "password": "asdfgh",
+        "mobile": "1234567890",
+        "id": 12
+      },
+      {
+        "username": "afrahthab",
+        "useremail": "afrah@gmail.com",
+        "password": "afrah123",
+        "mobile": "900800700600",
+        "id": 13
+      },
+      {
+        "username": "harrypotter",
+        "useremail": "harry@gmail.com",
+        "password": "harrypotter",
+        "mobile": "121212121212",
+        "id": 14
+      },
+      {
+        "username": "harryuioprtty",
+        "useremail": "afrahthabassum@gmail.com",
+        "password": "harrypotter",
+        "mobile": "1234567890",
+        "id": 15
+      },
+      {
+        "username": "alberteinstein",
+        "useremail": "alberteinstein@gmail.com",
+        "password": "albert",
+        "mobile": "1234567890",
+        "id": 16
+      }
+    ],
+    "cart": [
+      {
+        "pname": "Scoop",
+        "pdescription": "super light chocolate sponge cake soaked with kirschwasser",
+        "price": 1000,
+        "img": "https://images.pexels.com/photos/2586924/pexels-photo-2586924.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 3,
+        "id": 10
+      },
+      {
+        "pname": "Butterscotch",
+        "pdescription": "cream cheese frosting and ermine frosting",
+        "price": 2100,
+        "img": "https://images.unsplash.com/photo-1623595119708-26b1f7300075?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aWNlJTIwY3JlYW0lMjBjb25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "quantity": 3,
+        "id": 12
+      },
+      {
+        "pname": " Chocolate",
+        "pdescription": "Icing made with cream cheese, cocoa, and cinnamon frosts this dark chocolate cake for an elegant dessert",
+        "price": 900,
+        "img": "https://images.unsplash.com/photo-1512431991190-e21b7820daab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aWNlY3JlYW0lMjBjYW5keXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "quantity": 1,
+        "id": 13
+      },
+      {
+        "pname": "Coco Pista",
+        "pdescription": "Whole Wheat Dry Fruits Chocolate Cake",
+        "price": 1000,
+        "img": "https://images.unsplash.com/photo-1592864042311-a3babede6944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aWNlJTIwY3JlYW0lMjBjb25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "quantity": 1,
+        "id": 14
+      },
+      {
+        "pname": "Scoop",
+        "pdescription": "super light chocolate sponge cake soaked with kirschwasser",
+        "price": 1000,
+        "img": "https://images.pexels.com/photos/2586924/pexels-photo-2586924.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "quantity": 3,
+        "id": 15
+      },
+      {
+        "pname": "Mango Candy",
+        "pdescription": "This French Almond Cake is incredibly delicious",
+        "price": 1000,
+        "img": "https://t3.ftcdn.net/jpg/03/01/45/30/240_F_301453040_bhXIOihIqDJcCiocEp6EnUOWfJfwA8fb.jpg",
+        "quantity": 1,
+        "id": 16
+      }
+    ]
+  }
